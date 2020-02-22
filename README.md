@@ -1,4 +1,4 @@
-## Asteroids (C based game)
+## Asteroids (C based game) - live [here](https://marciobbj.github.io/web-assembly-playground/platform/web/index.html)
 
 #### To compile ASTEROIDS code type inside root directory:
 * `emcc -o index.html asteroids/asteroids/*.c -Wall -g -lm -s USE_SDL=2`
